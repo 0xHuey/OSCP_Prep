@@ -25,3 +25,10 @@ Extra wordlist to be familiar with:
 Usage:
 
 1. dirb <INSERT URL> = Dirb will search the default word list file. 
+  
+
+# Curl is used in command lines or scripts to transfer data. But it can also be used to enumerate sites
+  
+  1. curl http://google.com -v = verbose
+  2. curl -O/-o Curl.txt http://google.com = will save as an output
+  Full list of commands to use **https://www.computerhope.com/unix/curl.htm**
